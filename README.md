@@ -41,13 +41,20 @@
 
 ### 📊 GitHub stats
 
+<!-- These images are generated daily by .github/workflows/stats.yml -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rezajavan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=1d4ed8&icon_color=1d4ed8&text_color=64748b" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezajavan&layout=compact&hide_border=true&theme=transparent&title_color=1d4ed8&text_color=64748b" alt="Top languages">
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contribution overview" width="100%">
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%">
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rezajavan&hide_border=true&theme=transparent&ring=1d4ed8&fire=1d4ed8&currStreakLabel=1d4ed8&sideLabels=64748b&dates=64748b&currStreakNum=64748b&sideNums=64748b" alt="GitHub streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezajavan/rezajavan/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/rezajavan/rezajavan/output/github-snake.svg" alt="Contribution snake">
+  </picture>
 </p>
 
 ### 📚 Publications
