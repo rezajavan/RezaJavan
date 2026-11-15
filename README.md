@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://rezajavan.github.io"><img src="https://img.shields.io/badge/Website-rezajavan.github.io-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/reza-javan-67a49a172"><img src="https://img.shields.io/badge/LinkedIn-Reza%20Javan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://hub.docker.com/u/reza1j"><img src="https://img.shields.io/badge/Docker%20Hub-reza1j-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"></a>
 </p>
