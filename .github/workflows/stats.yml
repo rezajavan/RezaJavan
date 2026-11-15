@@ -1,4 +1,4 @@
-name: Update profile stats
+name: Update contribution snake
 
 on:
   schedule:
@@ -15,18 +15,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  summary-cards:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Generate profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
 
   snake:
     runs-on: ubuntu-latest
